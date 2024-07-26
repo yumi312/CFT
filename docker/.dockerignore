@@ -1,0 +1,20 @@
+﻿# data相關
+test_RGBT/
+test_detect/
+M3FD_class/
+day_night/
+*.zip
+
+# 環境相關
+.venv-LDFusion/
+.git/
+.gitignore
+.gitattributes
+
+# weight相關
+experiments/**
+!experiments/final/**
+
+# NAS 相關
+.SynologyWorkingDirectory/
+desktop.ini
